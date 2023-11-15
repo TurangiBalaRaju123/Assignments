@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author turaju
- *
- */
-module Assignments {
-}
